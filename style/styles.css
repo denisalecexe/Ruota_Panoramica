@@ -1,6 +1,6 @@
 body {
   overflow: hidden;
-  background: radial-gradient(darkgrey, grey, black);
+  background: radial-gradient(darkgrey, dimgray, grey, black);
 }
 
 .wrapped {
