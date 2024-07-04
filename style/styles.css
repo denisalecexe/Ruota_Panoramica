@@ -22,6 +22,7 @@ body {
   max-width: 500px;
   max-height: 500px;
   animation: wheel 10s infinite;
+  animation-timing-function: linear;
 }
 
 .line {
